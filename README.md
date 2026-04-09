@@ -82,7 +82,6 @@ project-folder/
 - 🔊 Sound effects (drop, success, fail)  
 - 🌍 Multiple levels / increasing difficulty  
 - ⏱ Timer-based missions  
-- 🎯 Smaller target zones for higher levels  
 - 🎨 Better UI & animations  
 
 ---
