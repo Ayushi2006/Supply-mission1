@@ -41,7 +41,7 @@ A fun physics-based mini game where you control a helicopter and drop supply pac
 
 - Package follows helicopter until dropped  
 - Once dropped:
-  - Falls straight down (no sideways drift)  
+  - Falls straight down
   - Distance from target is calculated  
 - If within drop zone → ✅ score increases  
 - Else → ❌ mission fails  
