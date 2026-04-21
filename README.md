@@ -4,7 +4,7 @@ A fun physics-based mini game where you control a helicopter and drop supply pac
 
 ---
 
-## 🎮 Gameplay
+## 🎮 Gameplay 
 
 - Control the helicopter using arrow keys  
 - Press **SPACE** to drop the package  
